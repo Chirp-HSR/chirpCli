@@ -14,7 +14,7 @@
     <dependency>
       <groupId>ch.hsr.chirp</groupId>
       <artifactId>chirp-java-client</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.1-SNAPSHOT</version>
     </dependency>
   </dependencies>
 
